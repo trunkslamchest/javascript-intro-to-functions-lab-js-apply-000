@@ -2,8 +2,18 @@ function shout(string) {
   
 }
 
-whisper(string)
+function whisper(string) {
+  
+}
 
-logShout(string)
+function logShout(string) {
+  
+}
 
-logWhisper(string)
+function logWhisper(string) {
+  
+}
+
+function sayHiToGrandma(string) {
+  
+}
